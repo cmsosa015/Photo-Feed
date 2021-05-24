@@ -1,0 +1,103 @@
+body{
+    background-color: lightgray;
+    margin: 0;
+}
+
+section{
+    height: 100%;
+}
+
+header{
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    font-family: Helvetica;
+    position: static;
+    
+}
+
+div.container1{
+    width: 500px;
+    margin: auto;
+    font-family: Helvetica;
+    background: lightgray;
+
+}
+
+div.container2{
+    width: 500px;
+    margin: auto;
+    font-family: Helvetica;
+    background: lightgrey; 
+
+}
+
+div.container3{
+    width: 500px;
+    margin: auto;
+    font-family: Helvetica;
+    background: lightgrey;
+    
+ 
+    
+}
+div.container4{
+    width: 500px;
+    margin: auto;
+    font-family: Helvetica;
+    background: lightgrey;
+    
+    
+}
+
+header h1{
+    margin: 0;
+    margin-left: 457px;
+    font-size: 27px;
+    padding: 5px;
+    padding-top: 30px;
+    
+}
+
+h2{
+    padding: 15px;
+    margin: 0px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+
+span{
+    float: right;
+    color: lightgrey;
+    font-family: Arial; 
+    font-weight: lighter;
+    font-size: 16px;
+    
+}
+
+div.post{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+
+}
+
+div.post p {
+    padding-top: 2px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: left;
+    font-size: 14.5px;
+   
+}
+
+
+div.post img{
+    width: 500;
+    height: 400;
+    margin: auto;
+
+}

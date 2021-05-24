@@ -9,10 +9,9 @@ section{
 
 header{
     background-color: white;
-    margin: auto;
-    padding: 10px;
     font-family: Helvetica;
-    position: static;
+    margin-left: auto;
+    padding: 5px;
     
 }
 
@@ -52,7 +51,7 @@ div.container4{
 
 header h1{
     margin: 0;
-    margin-left: 457px;
+    margin-left: 317px;
     font-size: 27px;
     padding: 5px;
     padding-top: 30px;
